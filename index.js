@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const SVG_PATH_SELECTOR = "#matter-path";
   const SVG_WIDTH_IN_PX = 100;
   const SVG_WIDTH_AS_PERCENT_OF_CONTAINER_WIDTH = 0.3;
-  const START_DELAY = 2000; // 2 second delay before starting
+  const START_DELAY = 1000; // 1 second delay before starting
 
   // Wait a moment to ensure all resources are loaded
   setTimeout(function () {
